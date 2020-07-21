@@ -1,9 +1,9 @@
-### Hi there, i'm Endhel Lopes! 👋
+## Hi there, i'm Endhel Lopes! 👋
 
 - :mortar_board: Studying information systems at the federal university of Ouro Preto.
 - :computer: I’m currently learning mobile application development in [Flutter](https://flutter.dev/docs).
 
-## What I'm working on
+### What I'm working on
 
 :iphone: Building an animated Todo List.
 
