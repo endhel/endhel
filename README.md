@@ -10,7 +10,7 @@
 
 ### Find me elsewhere :earth_americas:
 
-:briefcase: [Linkedin](https://linkedin.com/endhellopes)
+:briefcase: [Linkedin](https://linkedin.com/in/endhellopes)
 
 :camera: [Instagram](https://instagram.com/endhellopes)
 
