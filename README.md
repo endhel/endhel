@@ -6,7 +6,7 @@
 
 ### What I'm working on
 
-:iphone: Building an animated Todo List.
+:iphone: Building an animated [Todo List](https://github.com/endhel/myjobs).
 
 ### Find me elsewhere :earth_americas:
 
