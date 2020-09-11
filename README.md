@@ -2,7 +2,7 @@
 
 :mortar_board: Studying information systems at the Federal University of Ouro Preto.
 
-:computer: I’m currently learning data science.
+:computer: I’m currently learning data science with Python.
 
 ### Find me elsewhere :earth_americas:
 
