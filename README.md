@@ -2,7 +2,7 @@
 
 :mortar_board: Studying information systems at the Federal University of Ouro Preto.
 
-:computer: I’m currently learning data science with Python and R.
+:computer: I’m currently learning Data Science with Python and R.
 
 ### Find me elsewhere :earth_americas:
 
@@ -10,4 +10,3 @@
 
 :camera: [Instagram](https://instagram.com/endhellopes)
 
-🌐 [Twitter](https://twitter.com/endhellopes98)
