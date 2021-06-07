@@ -8,5 +8,4 @@
 
 :briefcase: [Linkedin](https://linkedin.com/in/endhellopes)
 
-:camera: [Instagram](https://instagram.com/endhellopes)
 
