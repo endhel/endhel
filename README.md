@@ -4,7 +4,7 @@
 
 :computer: I’m currently learning Data Science, Machine Learning and Data Analytics with Python and R.
 
-:briefcase: You can see my project portfolio on this link: bit.ly/3wFWwWN
+:briefcase: You can see my project portfolio on this link: https://bit.ly/3wFWwWN
 
 ### Find me elsewhere :earth_americas:
 
