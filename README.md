@@ -1,4 +1,4 @@
-## Hi there, i'm Endhel Lopes! 👋
+## Hi there, I'm Endhel Lopes! 👋
 
 :mortar_board: Studying information systems at the Federal University of Ouro Preto.
 
