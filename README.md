@@ -44,7 +44,7 @@ In this project, i developed a model capable of classifying stock market stocks 
 
 ## Data Analysis - Insight Projets
 
-### [House Rocket - Insights Project]()
+### [House Rocket - Insights Project](https://github.com/endhel/house-rocket-insights)
 
 **On Going**
 
