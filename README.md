@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Endhel Lopes de Freitas - Portfólio
+# Endhel Lopes de Freitas - Portfolio
 
 <sub>*Graduate in Information Systems* at the Federal University of Ouro Preto</sub>
 
