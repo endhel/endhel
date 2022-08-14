@@ -10,7 +10,7 @@
 
 As a data scientist, I'm always looking for problems to solve. This fascinating area of artificial intelligence makes me excited to overcome obstacles. With each passing day, I am more aware that in data science there is always something more to learn. This data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-**Analytical Tools:**
+**Analytical Tools:** Power BI.
 
 **Data Collect and Storage:** SQL, MySQL, SQLite. Flask-sqlachemy.
 
