@@ -12,7 +12,7 @@ As a data scientist, I'm always looking for problems to solve. This fascinating 
 
 **Analytical Tools:** Power BI.
 
-**Data Collect and Storage:** SQL, MySQL, SQLite. Flask-sqlachemy.
+**Data Collect and Storage:** SQL, PostgresSQL, MySQL, SQLite, Flask-sqlachemy.
 
 **Data Processing and Analysis:** Python.
 
